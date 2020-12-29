@@ -7,3 +7,5 @@ This file edited locally in VSCode
 This line has been added in feature-2 branch
 
 Another midification in another-file.txt after the push - after creating remote feature-2 branch.
+
+Edited in the feature-2 branch
